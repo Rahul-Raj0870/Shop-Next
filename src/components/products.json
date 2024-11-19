@@ -1,0 +1,74 @@
+[{
+  "title": "Brown eggs",
+  "type": "dairy",
+  "description": "Raw organic brown eggs in a basket",
+  "filename": "0.jpg",
+  "height": 600,
+  "width": 400,
+  "price": 28.1,
+  "rating": 4
+}, {
+  "title": "Sweet stawberry",
+  "type": "fruit",
+  "description": "Sweet fresh stawberry on the wooden table",
+  "filename": "1.jpg",
+  "height": 450,
+  "width": 299,
+  "price": 29.45,
+  "rating": 4
+},{
+  "title": "Carrots",
+  "type": "vegan",
+  "description": "Concept of healthy vegan eating",
+  "filename": "2.jpg",
+  "height": 600,
+  "width": 398,
+  "price": 28.96,
+  "rating": 5
+}, {
+  "title": "Legums",
+  "type": "vegetable",
+  "description": "Cooked legums on the wooden table",
+  "filename": "3.jpg",
+  "height": 600,
+  "width": 399,
+  "price": 14.77,
+  "rating": 0
+}, {
+  "title": "Oranges",
+  "type": "fruit",
+  "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+  "filename": "4.jpg",
+  "height": 450,
+  "width": 274,
+  "price": 21.48,
+  "rating": 4
+}, {
+  "title": "Lemon",
+  "type": "fruit",
+  "description": "Rosemary, lemon and salt on the table",
+  "filename": "5.jpg",
+  "height": 450,
+  "width": 299,
+  "price": 15.79,
+  "rating": 5
+}, {
+  "title": "Plums",
+  "type": "fruit",
+  "description": "Yellow and red sweet plums",
+  "filename": "6.jpg",
+  "height": 450,
+  "width": 299,
+  "price": 19.18,
+  "rating": 1
+}, {
+  "title": "Fresh pears",
+  "type": "fruit",
+  "description": "Sweet fresh pears on the wooden table",
+  "filename": "7.jpg",
+  "height": 600,
+  "width": 398,
+  "price": 15.12,
+  "rating": 5
+}
+]
